@@ -21,7 +21,7 @@ public class OopWeek3Lecture1 {
         p1.sayHello();
         
         Person p2=new Person();
-        p2.name="no";
+        p2.name="Rawan";
         p2.sayHello();
         
         Person p3=p1;
@@ -30,7 +30,7 @@ public class OopWeek3Lecture1 {
         p3.sayHello();
         
 //        Person p4=null;
-//        p4.name="y";
+//        p4.name="Leen";
 //        p4.sayHello();
          
     }
