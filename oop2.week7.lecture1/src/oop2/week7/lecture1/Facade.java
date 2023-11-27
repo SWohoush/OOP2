@@ -2,8 +2,8 @@ package oop2.week7.lecture1;
 
 public class Facade {
 
-    public Subsystem1 subsystem1;
-    public Subsystem2 subsystem2;
+    private Subsystem1 subsystem1;
+    private Subsystem2 subsystem2;
 
     public Facade() {
         this.subsystem1 = new Subsystem1();
